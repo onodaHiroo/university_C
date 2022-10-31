@@ -1,0 +1,3 @@
+﻿  lab_2.c
+D:\Visual Studio Projects\git_C\lab_2\lab_2.c(12,18): warning C4101: term2: неиспользованная локальная переменная
+  lab_2.vcxproj -> D:\Visual Studio Projects\git_C\lab_2\x64\Debug\lab_2.exe
