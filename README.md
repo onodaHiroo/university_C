@@ -1,2 +1,2 @@
 # university_C
-Public repository with uviversity C projects.
+Public repository with university C projects.
